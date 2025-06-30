@@ -1,0 +1,11 @@
+pandas
+Matplotlib.pyplot
+numpy
+seaborn
+scikit-learn
+sentence-transformers
+bertopic
+re
+IPython.display
+hdbscan
+umap.umap_
